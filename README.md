@@ -7,13 +7,6 @@ The dashboard helps segment patients and provides insights that support better h
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Healthcare Dashboard]()
-
-> Upload your dashboard image in the repository and name it **dashboard.png** (or update the image path).
-
----
 
 ## 📌 Key Insights
 - 👥 **Total Patients:** 2000  
@@ -24,16 +17,6 @@ The dashboard helps segment patients and provides insights that support better h
 - 💳 **Medicare insurance** shows the highest average billing  
 
 ---
-
-## 📊 Dashboard Features
-
-- 📌 Patients by Primary Medical Condition  
-- 💰 Average Billing by Insurance Type  
-- 👥 Patients by Age Group  
-- 📅 Average Annual Visits by Age Group  
-- ⚖️ Billing Distribution by BMI Category  
-- 📈 Visits & Billing vs Chronic Conditions  
-- 🗺️ Patients Distribution by State  
 
 **Interactive Filters**
 - Gender
@@ -67,6 +50,23 @@ The dashboard helps segment patients and provides insights that support better h
 | State | Patient location |
 
 ---
+
+## 🖼️ Dashboard Preview
+
+![Healthcare Dashboard](https://github.com/shamil-9528/Patient-Healthcare-Segmentation-Analysis/blob/main/Screenshot%202026-03-13%20120044.png)
+
+> Upload your dashboard image in the repository and name it **dashboard.png** (or update the image path).
+
+---
+## 📊 Dashboard Features
+
+- 📌 Patients by Primary Medical Condition  
+- 💰 Average Billing by Insurance Type  
+- 👥 Patients by Age Group  
+- 📅 Average Annual Visits by Age Group  
+- ⚖️ Billing Distribution by BMI Category  
+- 📈 Visits & Billing vs Chronic Conditions  
+- 🗺️ Patients Distribution by State  
 
 ## 🎯 Project Objectives
 
